@@ -3,7 +3,7 @@
 A compact, end‑to‑end text classification project that trains a **Multinomial Naive Bayes** model to detect **spam vs. non‑spam (ham)** emails.  
 It (1) builds a vocabulary of the **top‑3000 most frequent** alphabetic tokens from the training set, (2) converts each email to a bag‑of‑words count vector, (3) trains the classifier, and (4) evaluates accuracy on a held‑out test set.
 
-> **Dataset**: 702 training emails (balanced between spam and ham) and 260 test emails, provided with the assignment. [1](https://lmu0-my.sharepoint.com/personal/tschlaer_lion_lmu_edu/Documents/Microsoft%20Copilot%20Chat%20Files/Naive_Bayes_INSTRUCTIONS.pdf)
+> **Dataset**: 702 training emails (balanced between spam and ham) and 260 test emails, provided with the assignment.
 
 ---
 
