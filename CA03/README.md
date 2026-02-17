@@ -189,10 +189,9 @@ or run the Jupyter notebook.
 
 ## Project Structure
 
-├── census_data.csv
-├── decision_tree_income.ipynb / .py
+├── CA03_Decision_Tree_Nicholas_Thomas
 ├── README.md
-└── figures/
+└── data.csv
 
 ---
 
